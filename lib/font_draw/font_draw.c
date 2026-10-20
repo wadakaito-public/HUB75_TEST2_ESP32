@@ -1,3 +1,5 @@
+//とりあえず完成
+
 #include <stdio.h>
 #include <stdint.h>//固定長int型ライブラリ
 #include <stddef.h>//型のサイズ取得
