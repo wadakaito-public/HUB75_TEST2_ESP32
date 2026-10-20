@@ -1,0 +1,8 @@
+{
+  "name": "font_data_8px",
+  "version": "1.0.0",
+  "build": {
+    "srcDir": ".",
+    "includeDir": "."
+  }
+}
